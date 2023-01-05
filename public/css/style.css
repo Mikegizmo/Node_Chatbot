@@ -1,0 +1,65 @@
+* {
+  font-family: 'Yeon Sung', sans-serif;
+}
+
+.bg-firebrick {
+  background-color: firebrick;
+}
+
+.bg-coral {
+  background-color: coral;
+}
+
+.btn-coral {
+  background-color: coral;
+  border-color: coral;
+  color: white;
+}
+
+.btn-coral:hover {
+  border-color: gold;
+  color: gold;
+}
+
+#headerContainer {
+  margin-top: 20px;
+}
+
+.text-center {
+  color: gold;
+}
+
+.media {
+  background-color: coral;
+  height: 100px;
+}
+
+.media img {
+  width: 75px;
+  margin: 10px;
+  float: left;
+}
+
+.media-body {
+  float: left;
+}
+
+.media-body h3 {
+  margin-top: 20px;
+  color: navy;
+}
+
+.cookie {
+  width: 90px;
+}
+
+.online {
+  margin-left: 5px;
+  color: lime;
+}
+
+#chatContainer {
+  height: 200px;
+  background-color: whitesmoke;
+}
+
